@@ -1,5 +1,5 @@
 # Calculetteaplpha
-Application de calculs permettant d'effectuer différents calculs :
+Application développée en python permettant d'effectuer différents calculs :
 -standard
 
 -scientifique
